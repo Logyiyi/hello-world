@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi! I am Ge Yi. This is my first time to use GitHub!
